@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\ExampleConnectionMySQL.exe.config
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\ExampleConnectionMySQL.exe
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\ExampleConnectionMySQL.pdb
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.Form1.resources
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.csproj.CopyComplete
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.exe
+C:\Users\Aluno\source\repos\ExampleConnectionMySQL\ExampleConnectionMySQL\obj\Debug\ExampleConnectionMySQL.pdb

@@ -1,0 +1,9 @@
+
+
+CREATE DATABASE banco;
+USE banco;
+CREATE TABLE adUsuario(idUsuario INT NOT NULL PRIMARY KEY AUTO_INCREMENT, stNome VARCHAR(255), stLogin VARCHAR(255), stSenha VARCHAR(255));
+
+DROP TABLE adUsuario;
+
+SELECT * FROM adUsuario
